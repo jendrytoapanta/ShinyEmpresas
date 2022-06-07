@@ -1,0 +1,2 @@
+# ShinyEmpresas
+Borrador de empresas.
